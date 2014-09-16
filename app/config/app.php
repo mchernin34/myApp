@@ -114,6 +114,7 @@ return array(
 		'Illuminate\Queue\QueueServiceProvider',
 		'Illuminate\Redis\RedisServiceProvider',
  'Way\Generators\GeneratorsServiceProvider',
+ 'Way\Generators\GeneratorsServiceProvider',
 		'Illuminate\Remote\RemoteServiceProvider',
 		'Illuminate\Auth\Reminders\ReminderServiceProvider',
 		'Illuminate\Database\SeedServiceProvider',
